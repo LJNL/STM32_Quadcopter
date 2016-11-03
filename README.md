@@ -1,5 +1,5 @@
 # STM32_Quadcopter
-This is an embeded project for our major design!!!
+
 
 This structure is as follows:
 
